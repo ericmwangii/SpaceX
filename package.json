@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "apollo-datasource-rest": "^0.12.0",
-    "apollo-server": "^2.23.0",
+    "apollo-server": "^3.6.1",
     "cors": "^2.8.5",
     "graphql": "^15.5.0",
     "nodemon": "^2.0.7"
